@@ -1,0 +1,67 @@
+body {
+	background-color:chartreuse;
+    text-align: center;
+}
+
+#glimg
+{
+    height: 100px;
+    width:100px;
+}
+
+.copy_right_footer {
+   position: fixed;
+   color:crimson;
+   bottom: 0;
+   width: 100%;
+   background-color:salmon;
+   line-height: 3;
+   text-align: center;
+     font-family: 'Special Elite', cursive;
+
+}
+ol h5
+{
+	background: rebeccapurple;
+    padding: 13px;
+    border-radius: 20px;
+}
+span
+{
+	font-family: 'Times New Roman', Times, serif;
+    color:olivedrab;
+	font-size: 25px;
+}	
+li img
+{
+	border-radius: 20px;
+}
+.bob
+{
+	background:goldenrod;
+	padding: 30px;
+	border-radius: 20px;
+	margin-top: 50px;
+	box-shadow: 5px 5px 18 oldlace;
+}
+b
+{
+	color: rgb(60, 80, 200);
+}
+
+.ror38
+{
+	text-align: center;
+	color: red;
+}
+.result
+{
+	box-shadow: 5px 5px 18px ;
+	letter-spacing: 2px;
+	background: orange;
+	border-radius: 20px;
+	margin-top:30px;
+	padding: 20px;
+	border:2px solid rgb(0, 255, 0)
+}
+
